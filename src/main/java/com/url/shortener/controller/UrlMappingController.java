@@ -6,7 +6,6 @@ import com.url.shortener.models.User;
 import com.url.shortener.service.UrlMappingService;
 import com.url.shortener.service.UserService;
 import lombok.AllArgsConstructor;
-import org.springframework.cglib.core.Local;
 import org.springframework.http.ResponseEntity;
 import org.springframework.security.access.prepost.PreAuthorize;
 import org.springframework.web.bind.annotation.*;
